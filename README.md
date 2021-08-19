@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimiO-wapc
 - 👀 I’m interested in data analytics, aws, python and sql
-- 🌱 I’m currently learning all python and hoping to improve on all my interests
+- 🌱 I’m currently learning python and hoping to improve on all my interests
 - 💞️ I’m looking to collaborate on data analytics related issues and python 
 - 📫 Reach me at timilanre@gmail.com
 
